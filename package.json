@@ -1,0 +1,34 @@
+{
+  "name": "crypto-trading-bot",
+  "version": "1.0.0",
+  "description": "Professional crypto trading bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "node test.js",
+    "clear": "rm -rf node_modules package-lock.json"
+  },
+  "keywords": [
+    "crypto",
+    "trading",
+    "bot",
+    "uniswap",
+    "polygon",
+    "defi",
+    "arbitrage"
+  ],
+  "author": "Crypto Trading Bot",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.8.0",
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
