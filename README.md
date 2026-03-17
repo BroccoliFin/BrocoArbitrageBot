@@ -19,12 +19,12 @@ A professional, industry-ready cryptocurrency arbitrage trading bot. This bot au
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    UNISWAP TRADING BOT                     │
+│                    UNISWAP TRADING BOT                      │
 ├─────────────────────────────────────────────────────────────┤
-│  🧠 Brain: JavaScript Class (UniswapTradingBot)            │
-│  🌐 Network: Polygon Blockchain                            │
-│  💰 Protocol: Uniswap V3 DEX                              │
-│  🔄 Strategy: Circular Arbitrage                           │
+│  🧠 Brain: JavaScript Class (UniswapTradingBot)             │
+│  🌐 Network: Polygon Blockchain                             │
+│  💰 Protocol: Uniswap V3 DEX                                │
+│  🔄 Strategy: Circular Arbitrage                            │
 └─────────────────────────────────────────────────────────────┘
 ```
 
